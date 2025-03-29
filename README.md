@@ -1,5 +1,5 @@
 # Programación con objetos I
-## Presentación Personal
+## Presentación Personal☆
 
 ### Datos Personales
 - Mi nombre es Julieta Rios
@@ -9,6 +9,6 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo dos perritas y un gato
+- Tengo un gato y dos perritas
 
-<img src="20230927_181549.jpg" width="100" height="100">
+<img src="20230927_181549.jpg" width="200" height="200">  <img src="20240601_132421.jpg" width="200" height="200"> <img src="20240215_180257.jpg" width="200" height="200"> 

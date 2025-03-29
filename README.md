@@ -11,4 +11,4 @@
 - Este es mi primer contacto con github
 - Tengo dos perritas y un gato
 
-![Logo UNAHUR](./UNAHUR.png)
+![foto](./20230927_181549.jpg)

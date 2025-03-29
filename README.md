@@ -11,6 +11,4 @@
 - Este es mi primer contacto con github
 - Tengo dos perritas y un gato
 
-![foto](./20230927_181549.jpg)
-
-<img src="20230927_181549.jpg" width="50" height="50">
+<img src="20230927_181549.jpg" width="100" height="100">

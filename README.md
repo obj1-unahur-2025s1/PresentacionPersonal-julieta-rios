@@ -3,7 +3,7 @@
 
 ### Datos Personales
 - Mi nombre es Julieta Rios
-- Vivo en Haedo
+- Vivo en Haedo, Morón
 - Tengo 21 años
 
 
